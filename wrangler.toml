@@ -1,4 +1,4 @@
-name = "logic-novel-api"
+name = "logic-novel"
 main = "worker.js"
 compatibility_date = "2026-07-23"
 
